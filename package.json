@@ -1,0 +1,22 @@
+{
+  "name": "api-rest-hekers",
+  "version": "0.0.1",
+  "description": "JSON Rest Api server for haker-news.clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api",
+    "json"
+  ],
+  "author": "Yoan Estrada Blanco",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
